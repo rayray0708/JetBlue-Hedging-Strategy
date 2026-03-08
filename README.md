@@ -242,7 +242,7 @@ Brent prices tracked jet fuel more closely because Brent is more aligned with **
 
 ## **Regression Results**
 
-![Regression Results](images/regression_results.png)
+![Regression Results](images/regression_results)
 
 ---
 
