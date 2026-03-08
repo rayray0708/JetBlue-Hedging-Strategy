@@ -228,35 +228,21 @@ Brent prices tracked jet fuel more closely because Brent is more aligned with **
 
 # **📊 Visualisations**
 
-## **Profit & Loss Comparison**
+## **P&L Comparison**
 
-Example chart showing hedging impact:
-
-```
-images/pnl_comparison.png
-```
-
-![P\&L Comparison](images/pnl_comparison.png)
+![P&L Comparison](images/P&L Before vs. After Hedging.png)
 
 ---
 
 ## **Commodity Price Correlations**
 
-```
-images/correlation_matrix.png
-```
-
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](images/Correlation_Matrix.png)
 
 ---
 
-## **Commodity vs Jet Fuel Price Trends**
+## **Regression Results**
 
-```
-images/price_trends.png
-```
-
-![Price Trends](images/price_trends.png)
+![Regression Results](images/Regression results for different commodities (Brent, WTI & Heating Oil).png)
 
 ---
 
